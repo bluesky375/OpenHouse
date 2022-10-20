@@ -26,7 +26,7 @@
     "react-native-loading-spinner-overlay": "^1.0.1",
     "react-native-modalbox": "^1.7.1",
     "react-native-progress": "^3.6.0",
-    "react-native-reanimated": "^1.2.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-uuid-generator": "^6.1.1",
     "react-navigation": "^3.0.8",
     "react-redux": "^6.0.0",
